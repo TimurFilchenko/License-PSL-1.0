@@ -27,7 +27,7 @@
     ]
   },
   "urls": {
-    "homepage": "hui",
-    "license": "https://example.com/powershield/license/1.0"
+    "homepage": "https://github.com/TimurFilchenko/License-PSL-1.0/tree/main",
+    "license": "https://github.com/TimurFilchenko/License-PSL-1.0/license/1.0"
   }
 }
