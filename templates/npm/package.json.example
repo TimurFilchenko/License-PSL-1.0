@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example project using PowerShield License (PSL 1.0)",
   "license": "LicenseRef-PSL-1.0",
-  "author": "Your Name",
+  "author": "Madalbekov Muras",
   "repository": {
     "type": "git",
     "url": "https://github.com/your/repo.git"
