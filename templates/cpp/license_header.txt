@@ -1,0 +1,10 @@
+/*
+ * PowerShield License (PSL 1.0)
+ *
+ * Copyright (c) 2026 [Your Name / Your Organization]
+ *
+ * SPDX-License-Identifier: LicenseRef-PSL-1.0
+ *
+ * This file is part of a project licensed under PSL 1.0.
+ * Use of this file is subject to the terms of the PowerShield License.
+ */
