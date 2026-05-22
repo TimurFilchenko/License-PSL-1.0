@@ -1,0 +1,33 @@
+{
+  "id": "PSL-1.0",
+  "name": "PowerShield License",
+  "version": "1.0",
+  "year": 2026,
+  "osiApproved": false,
+  "spdxCompatible": true,
+  "spdxIdentifier": "LicenseRef-PSL-1.0",
+  "type": "source-available",
+  "permissions": {
+    "commercialUse": true,
+    "modification": true,
+    "distribution": true,
+    "privateUse": true
+  },
+  "conditions": {
+    "attributionRequired": true,
+    "retainLicenseNotice": true
+  },
+  "restrictions": {
+    "harmfulUseProhibited": true,
+    "restrictedActivities": [
+      "malware",
+      "fraud",
+      "humanRightsViolations",
+      "illegalSurveillance"
+    ]
+  },
+  "urls": {
+    "homepage": "hui",
+    "license": "https://example.com/powershield/license/1.0"
+  }
+}
