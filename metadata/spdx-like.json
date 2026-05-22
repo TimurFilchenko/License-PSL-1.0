@@ -1,0 +1,16 @@
+{
+  "SPDXID": "LicenseRef-PSL-1.0",
+  "name": "PowerShield License 1.0",
+  "licenseId": "PSL-1.0",
+  "extractedText": "PowerShield License Version 1.0, 2026 ...",
+  "crossRefs": [
+    {
+      "url": "https://example.com/powershield/license/1.0",
+      "type": "License",
+      "comment": "Official license text"
+    }
+  ],
+  "isOsiApproved": false,
+  "isDeprecatedLicenseId": false,
+  "standardLicenseHeader": "SPDX-License-Identifier: LicenseRef-PSL-1.0"
+}
