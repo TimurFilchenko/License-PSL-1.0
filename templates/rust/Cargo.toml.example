@@ -5,4 +5,4 @@ edition = "2021"
 authors = ["M.Muras"]
 description = "Example Rust project using PowerShield License (PSL 1.0)"
 license = "LicenseRef-PSL-1.0"
-repository = "https://github.com/your/repo"
+repository = "https://github.com/TimurFilchenko/License-PSL-1.0/tree/main"
