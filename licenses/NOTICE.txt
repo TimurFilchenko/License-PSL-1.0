@@ -1,0 +1,12 @@
+licenses/NOTICE.txt
+
+PowerShield License (PSL 1.0)
+
+This project is licensed under the PowerShield License 1.0.
+
+You may obtain a copy of the license at:
+https://example.com/licenses/psl-1.0
+
+This software is provided "AS IS", without warranty of any kind.
+
+Copyright (c) 2026 [Your Name / Your Organization]
