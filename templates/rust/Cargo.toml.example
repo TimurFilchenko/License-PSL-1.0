@@ -1,0 +1,8 @@
+[package]
+name = "psl-1-0"
+version = "1.0.0"
+edition = "2021"
+authors = ["M.Muras"]
+description = "Example Rust project using PowerShield License (PSL 1.0)"
+license = "LicenseRef-PSL-1.0"
+repository = "https://github.com/your/repo"
