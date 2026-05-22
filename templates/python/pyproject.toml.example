@@ -1,0 +1,11 @@
+templates/python/pyproject.toml.example
+
+[project]
+name = "psl-1-0"
+version = "1.0.0"
+description = "Example Python project using PowerShield License (PSL 1.0)"
+authors = [{ name = "M.Muras" }]
+license = { text = "PowerShield License (PSL 1.0)" }
+
+[project.urls]
+Homepage = "https://github.com/your/repo"
